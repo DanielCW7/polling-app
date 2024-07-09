@@ -1,0 +1,13 @@
+li a {
+    color: rgb(1, 223, 1);
+}
+
+body {
+    background: gray url('./images/background.png') no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+
+ul {
+    margin-top: 100px;
+}
