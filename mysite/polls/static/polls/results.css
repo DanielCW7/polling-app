@@ -1,0 +1,36 @@
+
+h1 {
+    font-size: 1.5rem;
+    color: #fff
+}
+
+body {
+    background-image: linear-gradient(to bottom, rgb(142, 85, 255), rgb(255, 119, 119));
+}
+
+a {
+    color: rgb(4, 238, 255);
+}
+
+fieldset {
+    border: none;
+}
+
+input[type='radio']{
+    margin-bottom: 12px;
+}
+
+input[type='submit'] {
+    transition: .2s ease all;
+    border: solid white 1px;
+    padding: 5px 15px;
+    color: #fff;
+    background-color: rgb(110, 110, 110);
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+input[type='submit']:hover {
+    background-color: #fff;
+    color: black
+}
